@@ -28,5 +28,5 @@ mcMount.ps1
 ## Change Log
 
 ##### 1.0.1 2017-07-17 - Release
-[x] Added `$username` variable
-[x] Added comments in the script to assist with the mounting script
+- [x] Added `$username` variable
+- [x] Added comments in the script to assist with the mounting script
