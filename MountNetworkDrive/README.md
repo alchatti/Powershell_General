@@ -3,6 +3,10 @@
 
 A Script to mount Network folder as a drive in explorer. It offers two mode, the first to create a secured password file to be used for mounting.
 
+### Before usage 
+* You need to edit the file and change the `$username` value
+* Change the driver letter `U` and the shred folder location `\\server\path1` entries to match your network folders 
+
 ### Create a Secured Password File
 
 This mode is triggered when supplying a command line arguments of any value.
@@ -23,4 +27,6 @@ mcMount.ps1
 
 ## Change Log
 
-##### 2017-07-17 - Release
+##### 1.0.1 2017-07-17 - Release
+[x] Added `$username` variable
+[x] Added comments in the script to assist with the mounting script
