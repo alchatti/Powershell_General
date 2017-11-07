@@ -26,6 +26,8 @@ mcMount.ps1
 ```
 
 ## Change Log
+##### 1.0.1 2017-11-07 - Release
+- [x] Added `Created by` text in top of the script
 
 ##### 1.0.1 2017-07-17 - Release
 - [x] Added `$username` variable
